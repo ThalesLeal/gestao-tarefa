@@ -63,7 +63,7 @@ docker-compose exec web flask db upgrade
 #### Passo 7: Acesse a Aplicação
   Abra o navegador e acesse
   ```
-  http://localhost:5001.
+  http://localhost:5001
   ```
 
 #### Passo 8: Executar os Testes
