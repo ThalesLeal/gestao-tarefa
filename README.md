@@ -71,5 +71,3 @@ docker-compose exec web flask db upgrade
 ```
 docker-compose run test
 ```
-# gestao-tarefa
-# gestao-tarefa
